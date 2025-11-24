@@ -55,3 +55,48 @@ nav a:hover {
     color: #48BB78;
     font-size: 21px;
 }
+.testing {
+    background: #4A5568;
+    color: white;
+    padding: 60px 0;
+}
+
+.testing .btn {
+    background: #48BB78;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.stories h2 {
+    color: #5A67D8;
+}
+
+.article-body h3 {
+    font-size: 18px;
+}
+
+.article-body a {
+    color: #5A67D8;
+    font-weight: bold;
+}
+article img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.newsletter {
+    background: #48BB78;
+    color: white;
+}
+
+.newsletter .btn {
+    background: #5A67D8;
+    color: white;
+}
+footer {
+    background: #4A5568;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+}
